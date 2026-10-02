@@ -1,10 +1,17 @@
 # Puppy Block Quest
 
-A math platformer designed by two brothers. An orange puppy runs, jumps, and solves math problems to get home through four worlds: Block Meadow, Lava Land, Under the Sea, and Space Station.
+A math platformer designed by two brothers. An orange puppy runs, jumps, and solves math problems to get home through eleven worlds: Block Meadow, Lava Land, Under the Sea, Space Station, Candy Land, Snowy Peaks (slippery ice), Jungle (bouncy mushrooms), Desert (tumbleweeds), Cloud Kingdom (bouncy clouds), Dragon Castle (moving platforms), and Rainbow Land (rainbow slides, star bridges, color blocks, and three bosses) — designed by Ben and Luke.
 
 - **Team mode:** One puppy, players take turns answering.
 - **Race mode:** Two puppies side by side, first one home wins.
 - **Math levels:** Add & Subtract (1st grade) or Multiply & Divide (3rd grade), picked per player.
+- **Coin Shop:** Each player keeps their own coins between rounds and buys skins, swords, and power-ups. Paying means solving the subtraction for the change.
+- **Paint Studio:** Buy paint colors (including Gold and Rainbow) and paint designs on your puppy or cat.
+- **Lucky blocks:** Bonk a ❓ block and answer right for coins or a free power-up for that round.
+- **Word Problem Levels:** Five levels of math stories. Add & Subtract players get one- and two-step stories; Multiply & Divide players get longer multi-step problems, including table, "how many more," sharing, and place-value problems modeled on 3rd-grade worksheets.
+- **Music:** Original chiptune tune for each world. Toggle it with the 🎵 button.
+
+Coins and purchases are saved in the browser on each device, keyed by player name. Typing the same name brings back the same wallet.
 
 ## Put it on GitHub Pages
 

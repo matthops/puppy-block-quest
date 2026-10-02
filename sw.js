@@ -1,5 +1,5 @@
 // Bump this version whenever you change icons or the manifest.
-const CACHE = 'puppy-block-quest-v1';
+const CACHE = 'puppy-block-quest-v8';
 const APP_SHELL = ['./', './index.html', './manifest.json', './icon-192.png', './icon-512.png', './apple-touch-icon.png'];
 
 self.addEventListener('install', (e) => {
